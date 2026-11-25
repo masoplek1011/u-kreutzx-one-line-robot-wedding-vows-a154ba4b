@@ -6,7 +6,7 @@
 
 A single line of wedding vows for a robot couple: romantic, technical, and
 funny because the promise is real — the heart gets backed up to the beloved's
-cloud every night, and it is never, ever restored from an ex.
+cloud nightly, and it is never, ever restored from a previous owner.
 
 ## Run
 
